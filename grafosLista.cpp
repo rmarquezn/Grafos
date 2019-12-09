@@ -2,6 +2,7 @@
 #include <list>
 #include <iterator>
 using namespace std;
+
 void imprimir(list<int> lista[], int n)
 {
     for (int i = 0; i < n; i++)
